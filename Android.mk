@@ -1,4 +1,4 @@
-ifeq ($(call my-dir),$(call project-path-for,qcom-data-ipa-cfg-mgr))
+ifeq ($(call my-dir),$(call project-path-for,data-ipa-cfg-mgr))
 
 LOCAL_PATH := $(call my-dir)
 
